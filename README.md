@@ -1,2 +1,3 @@
 # School-Notes
-A repository to contain all my online school notes, from classes I wish to hold informaiton on.
+- Cloud Storage of online notes (not handwritten) I have taken
+- Starting 2024.
