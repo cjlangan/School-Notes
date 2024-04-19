@@ -29,3 +29,5 @@
 - 50-60 marks
 		- ~50 one mark questions
 		- one big question
+
+![[../Images/Pasted image 20240418211646.png|200]]
