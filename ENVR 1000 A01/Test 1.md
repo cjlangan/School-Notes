@@ -1,0 +1,44 @@
+- Units 1, 2, and 3
+- Lot of definitions
+- Says to look at footprint of nations to study for test.
+- Need pencil
+- Leave stuff elsewhere
+- ex forest diversity higher than grass land because of 
+- Cycles
+- F-Z 221 Wallace, same room.
+- 30 one mark questions
+- 1 ten marks questions (wont be about cycles) (tell me everything you know about)
+	- definitions
+	- terms
+	- how all fits together
+	- can be point form
+	- not marked on spelling/grammar
+- prep questions on UM Learn
+
+
+# Review
+- Test practice questions
+-  overshoot day dec 31
+	- most people is June/May, meaning using future generation or other country
+- Perpetual resources / alternative energies, same thing
+- Renewable, 
+- Biocapacity is supply, demand is ----,    overshoot is supply < demand
+- Scientific method steps
+	- control flower, manipulated/tested flower
+- environment is a system: carbon cycle
+- positive vs. negative feedback, 
+	- Positive: respiration, decomposition, forest fires
+	- Negative: photosynthesis
+- Nitrogen cycle: bacteria   .   Know all steps
+- Humans reliant on bacteria: ammonia --> nitrates
+- Know two bacteria: rhizobium (mutualism, legumes?, ), cyanobacteria (water)
+- Phosphorus, no atmosphere, patchy, rocks & plants, absorbed in roots
+	- physical process like carbon cycle, 
+- Nitrate must become ammonia to be used first
+- Humans cant wait, so we use industrial fixation, pollution, greenhouse gases
+- Energy in one direction, materials recycle (carbon)
+- First law --> plants ultimate transformers, sugars
+- second law --> few trophic levels. energy loss to heat, pyramid of energy (not many to predators)
+- plants are autotrophs, cuz not reliant on others
+- Ecological niche, everything to know about organism
+	- resource partitioning to reduce competition
