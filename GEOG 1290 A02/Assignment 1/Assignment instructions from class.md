@@ -1,0 +1,4 @@
+- Must discuss figures in the text.
+- says peer reviewed gives more marks
+- If source not available for free, provide permalink from UM Libraries
+- So, need permalink from libraries for JSTOR

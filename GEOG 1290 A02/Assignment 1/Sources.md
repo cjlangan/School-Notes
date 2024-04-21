@@ -1,0 +1,6 @@
+- [[Like a Work of Nature]] (Lake)
+- [[The Impact of the Expanded Panama Canal]]
+- [[Nature as Infrastructure]]
+- [[Official Website]]
+- ![New One](https://marinersgalaxy.com/panama-canal-history-purpose-economical-importance-and-expansion/)
+- Textbook

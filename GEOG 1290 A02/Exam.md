@@ -1,0 +1,11 @@
+- May cut out section N, or P
+- Will be like test on K-P, then rest of questions from other sections
+- 2 Bonus questions
+	- one on ------ cycles
+	- one on geological time scale, division form longest to shortest
+- 120 questions total, same format
+- Check questions distribution on UM Learn
+- Practice multiple choice online
+- 223 Wallace, Saturday, 6-8pm
+	- will try to let us in 5:50
+- 

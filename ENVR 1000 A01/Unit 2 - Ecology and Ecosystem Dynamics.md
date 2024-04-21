@@ -100,7 +100,6 @@ Note that **combustion** and **decomposition** are other reactions that also res
 - Ex: Omnivore is always in at least 2 chains, and always at 2nd trophic level in at least one chain.
 - Better for organism to have multiple sources of food.
 -> Food Web Worksheet on UM Learn.
-
 # Pyramid of Energy
 - Big number at start of food chain, small number at top (more vulnerable to extinction).
 ![[Pasted image 20240117120633.png]]

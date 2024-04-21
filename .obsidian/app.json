@@ -1,0 +1,12 @@
+{
+  "livePreview": true,
+  "tabSize": 3,
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "attachmentFolderPath": "Images",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "foldIndent": false,
+  "showIndentGuide": false,
+  "newLinkFormat": "relative"
+}
