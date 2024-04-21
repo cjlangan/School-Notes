@@ -19,7 +19,6 @@
 > [!note] Important
 > Do Not Feed The Animals
 
-
 # Links
 - You can link to other notes within notes
 - Simply surround note name in two sets of squares brackets 

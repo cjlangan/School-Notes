@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "70dd610961b5e1b4",
+        "id": "957f16c30d5ac00c",
         "type": "tabs",
         "children": [
           {
-            "id": "ba7836a51e8e9899",
+            "id": "cf01bd2ec780a14b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 2000/Exam.md",
+                "file": "To Do.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8dd428e544d8fa9e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 2000/Exam.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 2000/Exam.md",
+                "file": "To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 2000/Exam.md"
+                "file": "To Do.md"
               }
             }
           },
@@ -155,17 +156,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba7836a51e8e9899",
+  "active": "cf01bd2ec780a14b",
   "lastOpenFiles": [
-    "GitHub/Handling Online Repo.md",
+    "To Do.md",
+    "Images/Pasted image 20240421153256.png",
+    "To Do.md~",
+    "4913",
+    "Winter 2024 Exams.md",
+    "Images/Pasted image 20240421144416.png",
+    "Obsidian Guide.md",
+    "ENVR 1000 A01/Course Information.md",
+    "Untitled",
+    "COMP 2160/Just a Test File.md",
+    "COMP 2160/Course Information.md",
     "STAT 2000/Exam.md",
+    "GitHub/Handling Online Repo.md",
     "STAT 2000/Course Information.md",
     "ENVR 1000 A01/Unit 2 - Ecology and Ecosystem Dynamics.md",
     "Images/Unit 2 - Ecology and Ecosystem Dynamics 2024-01-24 11.36.33.excalidraw.md",
     "Images/Unit 2 - Ecology and Ecosystem Dynamics 2024-01-22 11.36.22.excalidraw.md",
     "ENVR 1000 A01/Unit 1 Introduction to Environmental Problems and Causes.md",
     "ENVR 1000 A01/Exam.md",
-    "ENVR 1000 A01/Course Information.md",
     "STAT 2000/Quiz 2.md",
     "STAT 2000/Quiz 1.md",
     "STAT 2000/Midterm.md",
@@ -185,24 +196,13 @@
     "Images/Pasted image 20240408113426.png",
     "Images/Pasted image 20240405120630.png",
     "Images/Pasted image 20240405092748.png",
-    "Images/Pasted image 20240403114904.png",
-    "Images/Pasted image 20240401120020.png",
     "Images/Jan 15 - Hosts & Guests 2024-01-15 12.43.48.excalidraw.md",
     "Images/IMG_4739.heic",
     "Images/GEOG 1290 LOT section A.docx",
     "Images/Course Information 2024-01-16 19.38.09.excalidraw.md",
-    "Images/Course Information 2024-01-16 16.50.41.excalidraw.md",
-    "Images/Course Information 2024-01-16 16.49.41.excalidraw.md",
     "Images/Climate Change Fact Sheet (by Environment Canada).pdf",
-    "Images/B.1 Tools in Geography 2024-01-17 10.35.58.excalidraw.md",
-    "Images/B.1 Tools in Geography 2024-01-14 20.26.18.excalidraw.md",
-    "Images/B.1 Tools in Geography 2024-01-14 20.21.40.excalidraw.md",
     "Images",
-    "Excalidraw/Unit 3 - Biodiversity and Management 2024-02-02 11.54.43.excalidraw.md",
     "Excalidraw",
-    "GEOG 1290 A02/Assignment 3",
-    "GEOG 1290 A02/Assignment 2",
-    "GEOG 1290 A02/Writing Quiz",
     "Untitled.canvas"
   ]
 }

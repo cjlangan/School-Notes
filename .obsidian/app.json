@@ -8,5 +8,8 @@
   "promptDelete": false,
   "foldIndent": false,
   "showIndentGuide": false,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "defaultViewMode": "source",
+  "showLineNumber": false,
+  "useMarkdownLinks": true
 }
