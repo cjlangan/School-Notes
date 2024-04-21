@@ -10,6 +10,6 @@
 
 ![](Images/Pasted%20image%2020240421153256.png)
 
-![](Images/Obsidian_Image.jpeg =x200)
+![](Images/Obsidian_Image.jpeg){ width: 200px }
 
 ![](Images/Pasted%20image%2020240106194421.png =x50)
