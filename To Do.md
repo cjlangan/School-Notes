@@ -10,12 +10,17 @@
     - [ ] Able to make and store PDF's
         - Once get this, make command to upload PDF's to DropBox
 
+## Testing Math
+$\frac{a}{b}$
+
+$$\sum_{i=5}^{43}=\frac{E=mc^2}{\hat{x}-\bar{x}}$$
+
 
 ## Test Section
 - Markdown is dope as fuck holy shit
 - Here is an image of a ducky wucky so darn cute.
 
-<img src="Images/duck.png" width="400">
+<img src="Images/duck.png" width="100">
 
 ### A Sub-Section
 - We can also insert code blocks:
