@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYC 1200 A07/Course Information.md",
+                "file": "To Do.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYC 1200 A07/Course Information.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYC 1200 A07/Course Information.md",
+                "file": "To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYC 1200 A07/Course Information.md"
+                "file": "To Do.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "cf01bd2ec780a14b",
   "lastOpenFiles": [
+    "PSYC 1200 A07/Course Information.md",
     "To Do.md",
     "Winter 2024 Exams.md",
     "Obsidian Guide.md",
@@ -200,7 +201,6 @@
     "Images/Jan 15 - Hosts & Guests 2024-01-15 12.43.48.excalidraw.md",
     "Images/IMG_4739.heic",
     "Images/GEOG 1290 LOT section A.docx",
-    "Images/Course Information 2024-01-16 19.38.09.excalidraw.md",
     "Images/Climate Change Fact Sheet (by Environment Canada).pdf",
     "Images",
     "Untitled.canvas"
