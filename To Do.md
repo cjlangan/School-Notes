@@ -23,7 +23,7 @@ $$\sum_{i=5}^{43}=\frac{E=mc^2}{\hat{x}-\bar{x}}$$
 
 <img src="Images/duck.png" width="100">
 
-![](Images/duck.png =50x)
+![](Images/duck.png){width=20%}
 
 ### A Sub-Section
 - We can also insert code blocks:
