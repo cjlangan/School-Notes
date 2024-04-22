@@ -20,9 +20,9 @@ $$\sum_{i=5}^{43}=\frac{E=mc^2}{\hat{x}-\bar{x}}$$
 - Markdown is dope as fuck holy shit
 - Here is an image of a ducky wucky so darn cute.
 
-![](Images/duck.png)
+![](Images/duck.png =170x)
 
-<img src="cow.png"></img>
+<img src="cow.png">What to put here</img>
 
 ### A Sub-Section
 - We can also insert code blocks:
