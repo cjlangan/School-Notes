@@ -11,5 +11,6 @@
   "newLinkFormat": "relative",
   "defaultViewMode": "source",
   "showLineNumber": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "autoConvertHtml": true
 }

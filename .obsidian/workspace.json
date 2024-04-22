@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
+                "file": "PSYC 1200 A07/Course Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8dd428e544d8fa9e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "PSYC 1200 A07/Course Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do.md",
+                "file": "PSYC 1200 A07/Course Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do.md"
+                "file": "PSYC 1200 A07/Course Information.md"
               }
             }
           },
@@ -159,14 +158,16 @@
   "active": "cf01bd2ec780a14b",
   "lastOpenFiles": [
     "To Do.md",
+    "Winter 2024 Exams.md",
+    "Obsidian Guide.md",
+    "ENVR 1000 A01/Unit 7 - Water Resources.md",
+    "Templates",
+    "COMP 2160/Untitled",
     "Images/Pasted image 20240421153256.png",
     "To Do.md~",
     "4913",
-    "Winter 2024 Exams.md",
     "Images/Pasted image 20240421144416.png",
-    "Obsidian Guide.md",
     "ENVR 1000 A01/Course Information.md",
-    "Untitled",
     "COMP 2160/Just a Test File.md",
     "COMP 2160/Course Information.md",
     "STAT 2000/Exam.md",
@@ -202,7 +203,6 @@
     "Images/Course Information 2024-01-16 19.38.09.excalidraw.md",
     "Images/Climate Change Fact Sheet (by Environment Canada).pdf",
     "Images",
-    "Excalidraw",
     "Untitled.canvas"
   ]
 }
