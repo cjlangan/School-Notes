@@ -16,14 +16,14 @@
 Here is the formula:
 $$\sum_{i=5}^{43}=\frac{E=mc^2}{\hat{x}-\bar{x}}$$
 
+<h1/> D:JN:SJDFN</h1>
 
 ## Test Section
 - Markdown is dope as fuck holy shit
 - Here is an image of a ducky wucky so darn cute.
 
-<img src="Images/duck.png" width="100">
-
-![](Images/duck.png){width=20%}
+<img src="Images/duck.png"></img>
+<img src="cow.png"></img>
 
 ### A Sub-Section
 - We can also insert code blocks:
