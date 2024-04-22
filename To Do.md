@@ -15,7 +15,7 @@
 - Markdown is dope as fuck holy shit
 - Here is an image of a ducky wucky so darn cute.
 
-![](Images/duck.png =400x)
+<img src="Images/duck.png" width="400">
 
 ### A Sub-Section
 - We can also insert code blocks:
