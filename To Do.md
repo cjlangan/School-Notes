@@ -11,8 +11,9 @@
         - Once get this, make command to upload PDF's to DropBox
 
 ## Testing Math
-$\frac{a}{b}$
+- Use the expression: $\frac{a}{b}$
 
+Here is the formula:
 $$\sum_{i=5}^{43}=\frac{E=mc^2}{\hat{x}-\bar{x}}$$
 
 
@@ -21,6 +22,8 @@ $$\sum_{i=5}^{43}=\frac{E=mc^2}{\hat{x}-\bar{x}}$$
 - Here is an image of a ducky wucky so darn cute.
 
 <img src="Images/duck.png" width="100">
+
+![](Images/duck.png =50x)
 
 ### A Sub-Section
 - We can also insert code blocks:
