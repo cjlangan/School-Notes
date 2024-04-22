@@ -20,9 +20,8 @@ $$\sum_{i=5}^{43}=\frac{E=mc^2}{\hat{x}-\bar{x}}$$
 - Markdown is dope as fuck holy shit
 - Here is an image of a ducky wucky so darn cute.
 
-![](Images/duck.png =170x)
+![](Images/duck.png)
 
-<img src="cow.png">What to put here</img>
 
 ### A Sub-Section
 - We can also insert code blocks:
@@ -39,7 +38,7 @@ int main() {
 }
 ```
 
-*Likely by default I shouuld use the `##` headers in the "natural" Markdown*
+*Likely by default I should use the `##` headers in the "natural" Markdown*
 
 ## Another Section
 - Today We will learn about linux terminal commands
