@@ -83,7 +83,9 @@
 - **Sub-lethal Dose:** has measurable effect
 	- **Effective Dose:** want **ED50** - cause 50% population to exhibit specific response
 ## Dose Response Curve
-![[Pasted image 20240405120630.png]]
+
+![](../Images/Pasted%20image%2020240405120630.png)
+
 - choose does where ED50 - Effective Dose
 - notice low slope of no response at start until Threshold Level
 	- Can use up to Threshold Level to not affect certain organism
@@ -93,7 +95,9 @@
 - Quantify the **threshold level**: Max dose with NOEL, no observable effect
 
 # Risk Characterisation - Step 4 - Hazard Quotient (HQ)
-![[Pasted image 20240408113426.png]]
+
+![](../Images/Pasted%20image%2020240408113426.png)
+
 - **EEC**: expected environmental concentration - from step 3
 	- 
 - **TBC**: toxicological benchmark concentration - from step 2

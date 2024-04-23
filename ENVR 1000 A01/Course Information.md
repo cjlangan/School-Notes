@@ -1,5 +1,5 @@
 # Grading
-![[Pasted image 20240108115422.png]]
+![](../Images/Pasted%20image%2020240108115422.png)
 
 # Instructor
 - Leslie Goodman
@@ -29,13 +29,4 @@
 - 50-60 marks
 		- ~50 one mark questions
 		- one big question
-
-![[../Images/Pasted image 20240418211646.png|200]]
-
-
-# New Section
-- How can we ensure that the market is viable enough to support us?
-- This is quite sime to configure
-
-$$\frac{E=mc^2}{\sum{(\hat{x}-x_i)^2}}$$
 

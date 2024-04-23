@@ -29,7 +29,7 @@
 
 # Negative Feedback Loop
 - Input and output essentially cancel out, stabilising the system
-- Wolve and rabbit example (no significant change)
+- Wolf and rabbit example (no significant change)
 
 # Positive Feedback Loops
 - The output feeds back into the system and drives it further in one direction toward an extreme
@@ -106,12 +106,11 @@ Note that **combustion** and **decomposition** are other reactions that also res
 - Explained by second law
 
 *Sugar is potential energy, made by plants using photosynthesis*
-*plants and trees are fundament/ultimate transformers*
+*plants and trees are fundamental/ultimate transformers*
 *Few trophic levels, energy lost as heat, 2nd law*
 *Autotroph -> Makes own food, self-feeder (plants)*
 *Heterotroph -> consume others*
 
----
 # Biological Production
 - A method to quantify the energy trapped by (plants)
 - Measured as changes in **biomass** (weight/unit area) over time or between locations

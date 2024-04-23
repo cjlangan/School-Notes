@@ -30,12 +30,12 @@ ecosystem and its inhabitants
 # Step A: Geographic Boundary
 - **Jurisdictional basis** – map with subdivision
 	- e.g. Canada represents the management area; Province of Manitoba
-- **Administrative basis** – districts/subzones within the province – conservation districts where there might be unique goals and objectives/priorities; a national or provincial park
+- **Administrative basis** – districts/sub-zones within the province – conservation districts where there might be unique goals and objectives/priorities; a national or provincial park
 	- national parks use administrative boundary
 - **Ecological basis** – defined based on the ecological features
 	- terrestrial; aquatic; species specific
 	- more holistic
-- **Combination of the above** – check out Royalwood example from the textbook
+- **Combination of the above** – check out Royal-wood example from the textbook
 	- combination of priorities/objectives
 
 # Step A - Identifying Stakeholders

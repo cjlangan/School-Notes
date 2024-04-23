@@ -89,7 +89,7 @@
 - domesticated animals mimic the natural disturbance of grazers historically and with healthier soils the stocking rate can be much greater
 	- rotational grazing schedules
 
-*Legume --> nitrogen fixation*
+***Legume --> nitrogen fixation***
 
 # Slash and Burn Agriculture
 - Forests cut and burned for ash to use as fertilizer

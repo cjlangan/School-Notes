@@ -12,9 +12,10 @@
 *forests have the most biodiversity, ground, tree, etc.  Chop it down, it is gone*
 *we rely on the diversity of species in our world, future*
 
----
 
+```
 ![Why are Wildlife Important?](https://www.youtube.com/watch?v=7tgNamjTRkk)
+```
 ## What are the five reasons biodiversity is important to us? (Will be on test)
 1. **Economic value**
 	- fish, timber
@@ -75,7 +76,7 @@
 
 *If they have exactly the same needs, one species will outcompete and lead to the exclusion of others*
 
-*To minimize this competition species will alter aspects of their ecological niche. This is called **resource partitioning***
+*To minimize this competition species will alter aspects of their ecological niche. This is called **resource partitioning**
 ![[Pasted image 20240129115750.png]]
 Fundamental Niche: Where species could theoretically use resources
 Realised Niche: Where they must use resources because of competition
@@ -175,8 +176,9 @@ Watch the video and find examples of the over-arching influence of the wolves of
 ![[Pasted image 20240202115207.png]]
 
 # Case Study: Snow Geese Population Explosion
+```
 ![](https://www.youtube.com/watch?v=u1Wgt-OsZM)
-
+```
 ## Answer the Following
 - What are the habitat and ecosystem requirements for the snow geese and how do these influence population dynamics?
 - What is/are the limiting factor(s) to snow geese populations?

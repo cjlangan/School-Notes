@@ -19,7 +19,9 @@
 	- minerals - 45%
 	- water - 25%
 	- air - 25%
-![[Pasted image 20240320113949.png|300]]
+
+![](../Images/Pasted%20image%2020240320113949.png)
+
 - SOM is crucial for fertility, and has been decreasing
 	- farming practices not recycling nutrients
 
@@ -38,14 +40,15 @@
 	- weathered rocks
 	- groundwater
 - Consolidated Bedrock
-![[Pasted image 20240320114747.png|300]]
+
+![](../Images/Pasted%20image%2020240320114747.png)
 
 # Soil Texture
 - Different particle sizes
 	- **Sand** - high **porosity**; water and air moves through 
 	- **Silt** - in between
 	- **Clay** - compact tight, no porosity, holds soils together
-- Want 1/3 of each
+- Want 1/3 of each --> **loam**
 
 **Clod**: soil so compacted that its unusable, like cement
 - clay more likely to from clods
@@ -59,7 +62,8 @@
 			- limits water penetration
 			- Runoff, fertilizer into rivers
 	- want sufficient pore space
-![[Pasted image 20240320115928.png]]
+
+![](../Images/Pasted%20image%2020240320115928.png)
 
 # Cation Exchange Capacity (CEC)
 - **Negatively charged clay** and organic material "hold" minerals in the Soil (Mg, K, P . . .)
@@ -78,7 +82,7 @@
 *Symbiosis - Mutualism*
 
 # Biotic Associations Found in Soils
-- e.g., Symbiosis, N2 Fixation
+- e.g., Symbiosis, **N2 Fixation**
 - Roots colonised by fungi
 - create internal network
 - exchange sugars and nutrients

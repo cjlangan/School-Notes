@@ -7,7 +7,7 @@
 - [x] NeoVim Live-Preview *with* images
     - [ ] Able to auto insert bullet points
     - [x] Able to paste in images
-    - [ ] Able to make and store PDF's
+    - [x] Able to make and store PDF's
         - Once get this, make command to upload PDF's to DropBox
 
 ## Testing Math

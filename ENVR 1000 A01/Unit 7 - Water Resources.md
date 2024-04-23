@@ -1,4 +1,4 @@
-*Anoxia: no oxygen*
+# Anoxia: no oxygen
 - can happen in water if too much decomposition
 - opposite of photosynthesis reaction
 # Properties of Water
@@ -19,7 +19,9 @@
 - Water percolates into the ground, termed infiltration
 	- depends on saturation and permeability (pore spaces vs clay)
 - Water table: below saturated zone, above is unsaturated ground zone
-![[Pasted image 20240327114600.png]]
+
+![](../Images/Pasted%20image%2020240327114600.png)
+
 - If take water from ground, water table decreases, wells may not reach water anymore
 - Is ground water flow.
 - **Influent Stream** - going into ground
@@ -59,15 +61,17 @@ Lake Winnipeg Watershed
 	- **Turbidity** - reduces light penetration
 	- **Siltation** that destroys fish habitat
 	- Adhered pollutants
-# Eutrophication (Nutrient Pollution)
+# Eutrophication (Nutrient Pollution)**
 - nitrogen and phosphorus that encourage growth
 - **Cultural Eutrophication**: Humans accelerate natural processes that normally take thousands of years into 10 years
 - increases carrying capacities of algae
 - Large mats of plants reduce health of ecosystem, take light
 - From sewage, fertiliser, shampoos
 - Lower nutrients = more biodiversity
-![[Pasted image 20240327121807.png]]
-- after all dead, decomposers take all the oxygen for their decomposition reaction, anoxia, no oxygen, eutrophication kills fish, 
+
+![](../Images/Pasted%20image%2020240327121807.png)
+
+- after all dead, decomposers take all the oxygen for their decomposition reaction, anoxia, no oxygen, eutrophication kills fish, **
 # Decomposition and Oxygen Sag
 - uses DO, dissolved oxygen
 - Org-C + DO → CO2 + H2O
@@ -80,7 +84,9 @@ Lake Winnipeg Watershed
 # Organic Pollution: DO Sag and Biodiversity Loss
 - Oxygen Sag - dissolved oxygen declines in concentration in polluted area, cant regenerate fast enough
 	- oxygen demand spikes at pipe pollution, then decreases
-![[Pasted image 20240401115558.png]]
+
+![](../Images/Pasted%20image%2020240401115558.png)
+
 - High BOD lead to fish having nowhere to live - **Winter Fish Kill** - no oxygen
 	- algae die from cold, ice on top doesn't let oxygen in, bacteria eats algae that dies, take all oxygen, fish all die
 
@@ -89,8 +95,10 @@ Lake Winnipeg Watershed
 	- Determine rates of decomposition through an assessment of the DO consumed by bacterial community
 	- The amount of oxygen that is used by decomposers over a period of time to break down organic matter present in a given water sample.
 	- Seal off bottle (no oxygen in), put in dark (no photosynthesis), measure DO before and after, determines BOD
-	![[Pasted image 20240401120020.png]]
-	- we want low Org-C in our waters
+
+![](../Images/Pasted%20image%2020240401120020.png)
+	
+    - we want low Org-C in our waters
 
 # Pathogens and Water Quality
 - Fecal coliforms are pathogens originating from fecal materials from sewage, manure, water treatment failure
@@ -109,7 +117,7 @@ Lake Winnipeg Watershed
 - Cyanobacteria:
 	- outcompete organisms for oxygen and nutrients
 	- blue/green algae
-	- fix nitrogen gas to form ammonia (nitrogen fixation)
+	- fix nitrogen gas to form ammonia **(nitrogen fixation)**
 - Should be 16 N : 1 P    -->   N to P ratio
 	- Lake Winnipeg is 16 N : 4 P, so too much phosphorus
 		- nitrogen not a problem, cant just add nitrogen to fix ratio because it is toxic to fish
@@ -135,7 +143,7 @@ Lake Winnipeg Watershed
 			- jacking up rates of decomposition so no food for bacteria once in river
 			- digest dead stuff / organic carbon
 		- disinfection, killing pathogens
-	- Tertiary
+	- **Tertiary**
 		- removing nutrients, nitrogen and phosphorus
 
 # Non-Point Source Pollution Issues in Surface Water Quality - Urban Centres
@@ -145,7 +153,7 @@ Lake Winnipeg Watershed
 	- if get too much, it overflow the weir/dam and goes into rivers
 	- the non-overflow gets treated before deposition into river
 	- horrible way to handle runoff
-![[Pasted image 20240403114904.png]]
+![](Pasted%20image%2020240403114904.png)
 # **Wetlands / Riparian Zones**
 - incredible water purification, must have ton of vegetation on water edge, like cattails, suck up nutrients
 - water into storm drain goes to wetland, holds water and sediments go down.  Bacteria in soils break down organics.  Vegetations sucks of nutrients.  Then is released via gate into river, diluting nitrogen and phosphorus (good)

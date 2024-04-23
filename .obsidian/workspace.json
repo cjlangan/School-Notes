@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "957f16c30d5ac00c",
+        "id": "af739969d772d46b",
         "type": "tabs",
         "children": [
           {
-            "id": "cf01bd2ec780a14b",
+            "id": "4b589f8c23afe405",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
+                "file": "ENVR 1000 A01/Unit 8 - Ecotoxicology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "ENVR 1000 A01/Unit 8 - Ecotoxicology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do.md",
+                "file": "ENVR 1000 A01/Unit 8 - Ecotoxicology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do.md"
+                "file": "ENVR 1000 A01/Unit 8 - Ecotoxicology.md"
               }
             }
           },
@@ -155,13 +155,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf01bd2ec780a14b",
+  "active": "4b589f8c23afe405",
   "lastOpenFiles": [
-    "PSYC 1200 A07/Course Information.md",
+    "ENVR 1000 A01/Unit 8 - Ecotoxicology.md",
+    "Excalidraw/Unit 8 - Ecotoxicology 2024-04-10 11.29.14.excalidraw.md",
+    "ENVR 1000 A01/Unit 7 - Water Resources.md",
+    "ENVR 1000 A01/Unit 6 - Sustainable Agriculture Part B - Building and Sustaining Healthy Productive Soils.md",
+    "ENVR 1000 A01/Unit 6 - Sustainable Agriculture Part A - Soil Features.md",
+    "ENVR 1000 A01/Unit 5 - Biodiversity Management.md",
+    "ENVR 1000 A01/Test 2.md",
+    "ENVR 1000 A01/Exam.md",
+    "ENVR 1000 A01/Unit 3 - Biodiversity and Management.md",
+    "ENVR 1000 A01/Unit 2 - Ecology and Ecosystem Dynamics.md",
+    "ENVR 1000 A01/Course Information.md~",
+    "ENVR 1000 A01/Unit 1 Introduction to Environmental Problems and Causes.md",
+    "ENVR 1000 A01/ENVR-1000.pdf",
     "To Do.md",
+    "PSYC 1200 A07/Course Information.md",
     "Winter 2024 Exams.md",
     "Obsidian Guide.md",
-    "ENVR 1000 A01/Unit 7 - Water Resources.md",
     "Templates",
     "COMP 2160/Untitled",
     "Images/Pasted image 20240421153256.png",
@@ -174,35 +186,23 @@
     "STAT 2000/Exam.md",
     "GitHub/Handling Online Repo.md",
     "STAT 2000/Course Information.md",
-    "ENVR 1000 A01/Unit 2 - Ecology and Ecosystem Dynamics.md",
     "Images/Unit 2 - Ecology and Ecosystem Dynamics 2024-01-24 11.36.33.excalidraw.md",
     "Images/Unit 2 - Ecology and Ecosystem Dynamics 2024-01-22 11.36.22.excalidraw.md",
-    "ENVR 1000 A01/Unit 1 Introduction to Environmental Problems and Causes.md",
-    "ENVR 1000 A01/Exam.md",
     "STAT 2000/Quiz 2.md",
     "STAT 2000/Quiz 1.md",
     "STAT 2000/Midterm.md",
     "Images/Pasted image 20240418211646.png",
-    "ENVR 1000 A01/Unit 8 - Ecotoxicology.md",
     "Images/rocks-and-cliffs-of-mull-head-nature-duchy-2491219088.jpg",
     "Images/matterhorn-64951287925954AJM6.jpg",
-    "Images/Unit 2 - Ecology and Ecosystem Dynamics 2024-01-24 11.56.38.excalidraw.md",
     "Images/cliff_rock_sea_hd_nature-HD-1975965604.jpg",
-    "Images/Unit 2 - Ecology and Ecosystem Dynamics 2024-01-22 12.10.04.excalidraw.md",
-    "Images/Unit 2 - Ecology and Ecosystem Dynamics 2024-01-19 11.59.30.excalidraw.md",
-    "Images/Unit 1 - Statistical Inference 2024-01-15 09.38.52.excalidraw.md",
-    "Images/Unit 1 - Statistical Inference 2024-01-14 21.22.58.excalidraw.md",
     "Images/Screenshot 2024-01-06 194044.png",
     "Images/Resume.pdf",
     "Images/Resume.odt",
     "Images/Pasted image 20240408113426.png",
     "Images/Pasted image 20240405120630.png",
     "Images/Pasted image 20240405092748.png",
-    "Images/Jan 15 - Hosts & Guests 2024-01-15 12.43.48.excalidraw.md",
     "Images/IMG_4739.heic",
     "Images/GEOG 1290 LOT section A.docx",
-    "Images/Climate Change Fact Sheet (by Environment Canada).pdf",
-    "Images",
     "Untitled.canvas"
   ]
 }
