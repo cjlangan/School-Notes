@@ -1,6 +1,7 @@
 # Anoxia: no oxygen
 - can happen in water if too much decomposition
 - opposite of photosynthesis reaction
+
 # Properties of Water
 - High heat capacity - holds lots of energy
 - Ice expand when freezes - floats on water
@@ -32,6 +33,7 @@
 	- Gets recharge from runoff and discharge from ground
 - For groundwater, it *has* to rain
 - Note: runoff is not freshwater
+
 # Surface Waters
 Lake Winnipeg Watershed
 - Watershed, sink with a drain, Lake Winnipeg is the drain & watershed
@@ -61,6 +63,7 @@ Lake Winnipeg Watershed
 	- **Turbidity** - reduces light penetration
 	- **Siltation** that destroys fish habitat
 	- Adhered pollutants
+
 # Eutrophication (Nutrient Pollution)**
 - nitrogen and phosphorus that encourage growth
 - **Cultural Eutrophication**: Humans accelerate natural processes that normally take thousands of years into 10 years
@@ -72,6 +75,7 @@ Lake Winnipeg Watershed
 ![](../Images/Pasted%20image%2020240327121807.png)
 
 - after all dead, decomposers take all the oxygen for their decomposition reaction, anoxia, no oxygen, eutrophication kills fish, **
+
 # Decomposition and Oxygen Sag
 - uses DO, dissolved oxygen
 - Org-C + DO → CO2 + H2O
@@ -153,8 +157,10 @@ Lake Winnipeg Watershed
 	- if get too much, it overflow the weir/dam and goes into rivers
 	- the non-overflow gets treated before deposition into river
 	- horrible way to handle runoff
-![](Pasted%20image%2020240403114904.png)
-# **Wetlands / Riparian Zones**
+
+![](../Images/Pasted%20image%2020240403114904.png)
+
+# Wetlands / Riparian Zones
 - incredible water purification, must have ton of vegetation on water edge, like cattails, suck up nutrients
 - water into storm drain goes to wetland, holds water and sediments go down.  Bacteria in soils break down organics.  Vegetations sucks of nutrients.  Then is released via gate into river, diluting nitrogen and phosphorus (good)
 - soils have ton of bacteria, take nutrients from farmland runoff, converting to CO2

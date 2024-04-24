@@ -2,7 +2,9 @@
 
 *toxins can be synthetic or natural*
 
-**Environmental (Eco)Toxicology** - toxicology and investigation of environmental factors influencing exposure dynamics
+**Environmental (Eco)Toxicology**
+
+- toxicology and investigation of environmental factors influencing exposure dynamics
 - How does the substance behave in the environment?
 - Does the substance undergo transformations that affect how poisonous it is?
 - What are the indirect influences on the various biotic interaction in an ecosystem
@@ -32,20 +34,22 @@
 - **Acute Exposure**
 	- Symptoms develop fast
 	- includes exposure to large amounts of a chemical
+
 - **Chronic Exposure**
 	- takes place over long period of time of prolonged exposure
 	- often low level pollutants
 
 **Antagonistic Effect**
 - these are chemicals that interact to cancel out or lessen the toxicity effect
+
 **Synergistic Effect** 
 - combining these toxins results in a pronounced effect and much greater response than would be expected
 
 # Mobility of Toxicants
 - Toxicants go to unintended places... duh
-**Broadcast Spraying** - Via planes
-- low % reaches target
-- 98% ends up in air surface water, groundwater, bottom sediments
+- **Broadcast Spraying** - Via planes
+    - low % reaches target
+    - 98% ends up in air surface water, groundwater, bottom sediments
 
 # Long Range Transport of Pollutants
 - thousands of km
@@ -82,6 +86,7 @@
 - **Lethal Dose:** causes death - **LD50** lethal to 50% of population
 - **Sub-lethal Dose:** has measurable effect
 	- **Effective Dose:** want **ED50** - cause 50% population to exhibit specific response
+
 ## Dose Response Curve
 
 ![](../Images/Pasted%20image%2020240405120630.png)
@@ -127,6 +132,7 @@
 	- Interactions - antagonistic: cancels out, need much higher dose before response
 	- **Low EEC** - in range left of threshold, good
 ![[Unit 8 - Ecotoxicology 2024-04-10 11.29.14.excalidraw]]
+
 # Mercury Toxicity
 - naturally occurring, can't control 
 - 2 Forms:

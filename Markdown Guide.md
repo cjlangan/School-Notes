@@ -1,4 +1,3 @@
-***
 # Headings
 - Use *hashtags* '#' before a sentence or word to change its size
 - Make sure to provide a space in between
@@ -14,15 +13,6 @@
 - to *italicize* text: `*text*`
 - to ==highlight== text: `==text==`
 - to ~~strikethrough~~ text: `~~text~~`
-- to add a note: `> [!note] Note Name`
-	- you may add items under this heading
-> [!note] Important
-> Do Not Feed The Animals
-
-# Links
-- You can link to other notes within notes
-- Simply surround note name in two sets of squares brackets 
-	`[[Note Name]]`
 
 # Lists
 - Types a dash '-' then space to begin a regular list
@@ -63,27 +53,25 @@ else
 
 # Images
 - Simply copy an image from online and paste it in a note, or drag it in
-- To change the size, add a bar | followed by a number after the file name
-	![[1617670247obsidian-244838788.jpg|240]]
+- To change the size, add a bar | followed by a number after the file named
+
+![](Images/1617670247obsidian-244838788.jpg)
+
 - Or, if downloaded, drag it in from files
-	![[Obsidian_Image.jpeg|200]]
-- Or, WIN+SHIFT+S to screenshot, image will be in clipboard, then paste
-	![[Pasted image 20240106194558.png|160]]
+- Or, screenshot, image will be in clipboard, then paste
 - To get picture from iPhone, send through LocalSend, will be in downloads
-	 ![[IMG_4733.jpg|120]][
- 
 - Same for PDF's
 
 # Tables
 - Use `|` to separate columns, and `-|-` after headings
 ```
-First Name|LastName
+First Name|Last Name
 -|-
 Connor|Langan
 Jenna|Mutch
 ```
 
-First Name|LastName
+First Name|Last Name
 -|-
 Connor|Langan
 Jenna|Mutch
@@ -106,11 +94,9 @@ Jenna|Mutch
 	- `\log`            add subscript
 	- `\sin`, `\lim`, `\max`, `\int` $\sin, \lim, \max, \int$
 - Symbols
-	- `\lt \gt \le \ge \neq \cdot \in` $\lt, \gt, \le, \ge, \neq, \cdot, \in$
+	- `\lt \gt \le \ge \neq \cdot \in \pm` $\lt, \gt, \le, \ge, \neq, \cdot, \in, \pm$
 - Example
 	- `$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`     yields:
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
-- Full tutorial: https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
-# Embedding
-- For a webpage, add the following: `<iframe src="INSERT URL HERE"></iframe>`
-- For a youtube video use:  `![](URL HERE)`
+
+- [Full Tutorial](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)

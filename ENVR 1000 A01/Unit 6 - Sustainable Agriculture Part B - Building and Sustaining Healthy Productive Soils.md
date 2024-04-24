@@ -1,6 +1,8 @@
 # Regeneration of our Lands video
+
  *Look for problems and solutions*
- - Loss of biodiversity --> destruction of soil
+
+- Loss of biodiversity --> destruction of soil
  - top soil shrank in depth
  - organic matter shrank
  - rain can't infiltrate
@@ -34,6 +36,7 @@
 
 # Windy Video
 - field eroded, on hot sunny day, dust everywhere, goes into ditches or rivers
+
 # Tilled vs No Till Soils Video
 - Tilled is lighter
 - Till has little pore space
@@ -66,10 +69,12 @@
 - goal is monoculture/ low biodiversity
 - planted in rows, lack spatial complexity
 - tillage
+
 # Natural Landscape
 - pests can't access easily, due to structural complexity
 
 *Next two sections are a recap from Ted Talk Video*
+
 # Soil Decline with Conventional Farming
 - Tillage activities (ploughing) can accelerate breakdown of organic matter/decomposition rates;
 - Further loss of soil organic matter arises through burning and removal of crop residue

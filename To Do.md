@@ -1,14 +1,16 @@
 # To Do List for Laptop Ubuntu Perfection
-- [ ] PDF Viewer 
+- [x] PDF Viewer 
 	- Tabbed PDF's with commands
 	- Seamless scrolling between pages
 	- Looks good
-- [ ] DrawBoardPDF Alternative 
+- [x] DrawBoardPDF Alternative
+    - Got Xournal++, it's not perfect
 - [x] NeoVim Live-Preview *with* images
-    - [ ] Able to auto insert bullet points
     - [x] Able to paste in images
     - [x] Able to make and store PDF's
         - Once get this, make command to upload PDF's to DropBox
+- [ ] Something. . .
+
 
 ## Testing Math
 - Use the expression: $\frac{a}{b}$
