@@ -102,7 +102,7 @@ Lake Winnipeg Watershed
 
 ![](../Images/Pasted%20image%2020240401120020.png)
 	
-    - we want low Org-C in our waters
+- we want low Org-C in our waters
 
 # Pathogens and Water Quality
 - Fecal coliforms are pathogens originating from fecal materials from sewage, manure, water treatment failure

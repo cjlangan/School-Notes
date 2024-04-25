@@ -3,13 +3,15 @@
 	- Tabbed PDF's with commands
 	- Seamless scrolling between pages
 	- Looks good
+    - [ ] Set as default
 - [x] DrawBoardPDF Alternative
     - Got Xournal++, it's not perfect
 - [x] NeoVim Live-Preview *with* images
     - [x] Able to paste in images
     - [x] Able to make and store PDF's
         - Once get this, make command to upload PDF's to DropBox
-- [ ] Something. . .
+- [ ] Get Fingerprint sensor working
+- [ ] 
 
 
 ## Testing Math
