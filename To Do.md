@@ -3,7 +3,7 @@
 	- Tabbed PDF's with commands
 	- Seamless scrolling between pages
 	- Looks good
-    - [ ] Set as default
+    - [x] Set as default
 - [x] DrawBoardPDF Alternative
     - Got Xournal++, it's not perfect
 - [x] NeoVim Live-Preview *with* images

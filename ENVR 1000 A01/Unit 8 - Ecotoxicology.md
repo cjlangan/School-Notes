@@ -91,7 +91,7 @@
 
 ![](../Images/Pasted%20image%2020240405120630.png)
 
-- choose does where ED50 - Effective Dose
+- choose dose where ED50 - Effective Dose
 - notice low slope of no response at start until Threshold Level
 	- Can use up to Threshold Level to not affect certain organism
 		- Ex: Kill pest but not fish.
@@ -131,7 +131,9 @@
 	- Exposure - don't have to worry - acute
 	- Interactions - antagonistic: cancels out, need much higher dose before response
 	- **Low EEC** - in range left of threshold, good
-![[Unit 8 - Ecotoxicology 2024-04-10 11.29.14.excalidraw]]
+
+
+![](Images/ExampleEECTBC.png)
 
 # Mercury Toxicity
 - naturally occurring, can't control 

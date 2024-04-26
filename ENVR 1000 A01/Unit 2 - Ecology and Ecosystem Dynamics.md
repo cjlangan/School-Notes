@@ -18,7 +18,6 @@
 - **Ecosystem:** is a community (**living**) interacting with its physical and chemical environment (**non-living**). All 4 spheres.
 - **Landscapes:** connections linking several ecosystems in a particular region.
 
-
 # Systems are “Wired” with Feedback Loops
 - All component parts are interacting (ex: bodies are a system)
 - Defined: The output of the system feeds back into the system as an input and leads to changes in that system.
@@ -37,7 +36,9 @@
 - Snowball effect.
 
 # Energy Flows in Ecosystems
-![[Pasted image 20240115121227.png]]
+
+![](../Images/Pasted%20image%2020240115121227.png)
+
 - Arrows flow in one direction ; Energy flows in one direction.
 - Most energy is lost to the environment
 
@@ -47,8 +48,10 @@
 - Two forms of energy to consider: potential and kinetic
 ![[Pasted image 20240117113040.png]]
 - Sugars(glucose) are the stored energies in our bodies
+
 # First Law of Thermodynamics
 - Energy cannot be created but can be transformed:
+
 ### Examples
 - Solar energy transformed into thermal/heat energy
 - Solar energy transformed into sugars by plants through a process of photosynthesis
@@ -67,13 +70,18 @@ Energy transformations are very inefficient
 - Plants trap solar energy and transforms it into chemical/potential energy in the form of sugars
 - Energy is trapped in the bonds between C and H and O
 - Process is called **photosynthesis**. 
-![[Pasted image 20240117114738.png]]
+
+![](../Images/Pasted%20image%2020240117114738.png)
+
 ***Carbon dioxide + Water + Solar Energy -> Glucose/Sugar + Oxygen***
+
 Note: Glucose has Carbon.
 
 Converted to ***kinetic energy*** by all living organisms, includes work, heat, light
 Process is called **respiration**.  Opposite of photosynthesis
-![[Pasted image 20240117115120.png]]
+
+![](../Images/Pasted%20image%2020240117115120.png)
+
 Note that **combustion** and **decomposition** are other reactions that also result in the release of stored potential energy.
 
 # B. Consumers – Heterotrophs
@@ -89,20 +97,27 @@ Note that **combustion** and **decomposition** are other reactions that also res
 **Examples**: Fungi, Bacteria
 
 # Flow of Energy – Food Chains and Webs
-![[Pasted image 20240117115511.png]]
+
+![](../Images/Pasted%20image%2020240117115511.png)
+
 **Note:**  
 - Second Trophic Level is the primary consumer,
 - Third Trophic Level is the secondary consumer
 
 ## Food Web Example
-![[Pasted image 20240117120215.png]]
+
+![](../Images/Pasted%20image%2020240117120215.png)
+
 - Keep in mind: Relative to food chains.  
 - Ex: Omnivore is always in at least 2 chains, and always at 2nd trophic level in at least one chain.
 - Better for organism to have multiple sources of food.
 -> Food Web Worksheet on UM Learn.
+
 # Pyramid of Energy
 - Big number at start of food chain, small number at top (more vulnerable to extinction).
-![[Pasted image 20240117120633.png]]
+
+![](../Images/Pasted%20image%2020240117120633.png)
+
 - Explained by second law
 
 *Sugar is potential energy, made by plants using photosynthesis*
@@ -114,19 +129,24 @@ Note that **combustion** and **decomposition** are other reactions that also res
 # Biological Production
 - A method to quantify the energy trapped by (plants)
 - Measured as changes in **biomass** (weight/unit area) over time or between locations
-![[Pasted image 20240117120909.png|300]]
+
+![](../Images/Pasted%20image%2020240117120909.png)
+
 - Used extensively to assess changes over time, between locations etc. Documents changes in desertification, deforestation, deforestation for example.
 
 *Sometimes we want a lot of energy trapped (farms), sometimes we do not (algae)*
 
 
 ## Biomass is weight per unit area
+
 ## Productivity is a difference in biomass
 - Assessing state of environment
 - Not always good, algae example.
 
 # Why is this Useful?
-![[Pasted image 20240119114607.png]]
+
+![](../Images/Pasted%20image%2020240119114607.png)
+
 - Using satellites to determine productivity
 - Deep green = forest = high productivity
 - Oceans: Red high (heavy pollution), purple low.
@@ -141,12 +161,15 @@ Geo - physical
 chemical - reactions
 
 # Chemicals are the Nutrients for Organisms
+
 ### Macronutrients (SPONCH)
 - required in large amounts as cell “building blocks”
 - Carbon (C), Hydrogen (H), Oxygen (O), Nitrogen (N), Phosphorus (P), Sulphur (S)
 - May also include Calcium, sodium, potassium, magnesium and chloride ions in the list given the demand
+
 ### Micronutrients
 - Elements required in small amounts or moderate amounts by only some forms of life (vitamins, coenzymes)
+
 ### Availability of these chemicals influences what species will be present in the environment and how many individuals can be supported in that environment
 - Size of a population; how quickly the population can reproduce
 - Which species will be favoured in the ecosystem
@@ -162,20 +185,26 @@ chemical - reactions
 
 ## Biological 
 - Life using it.
-![[Pasted image 20240119120845.png]]
+
+![](../Images/Pasted%20image%2020240119120845.png)
+
 # The Carbon Cycle - Geological Pathways and Reservoirs
-![[Pasted image 20240119115928.png]]
+
+![](../Images/Pasted%20image%2020240119115928.png)
 
 ![[Unit 2 - Ecology and Ecosystem Dynamics 2024-01-19 11.59.30.excalidraw]]
 
 # Label the Boxes and Arrows – Carbon Cycle
-![[Pasted image 20240119120746.png]]
+
+![](../Images/Pasted%20image%2020240119120746.png)
 
 # The Carbon Cycle
-![[Unit 2 - Ecology and Ecosystem Dynamics 2024-01-22 11.36.22.excalidraw]]
+\[[Unit 2 - Ecology and Ecosystem Dynamics 2024-01-22 11.36.22.excalidraw]]
+
 # Positive Feedback
 - More forest fires
 - More decomposition
+
 # Negative Feedback
 - put into oceans, oceans give back
 - photosynthesis
@@ -189,17 +218,19 @@ chemical - reactions
 	- positive is bad, negative good
 - organic compounds create potential energy
 
-![[Unit 2 - Ecology and Ecosystem Dynamics 2024-01-22 12.10.04.excalidraw]]
+\![[Unit 2 - Ecology and Ecosystem Dynamics 2024-01-22 12.10.04.excalidraw]]
 
 # The Nitrogen Cycle
 - Nitrogen sueless to most plants
 - bacteria controls everything
 - Atmosphere --> Lithosphere    (Bacteria)
 
-![[Unit 2 - Ecology and Ecosystem Dynamics 2024-01-24 11.36.33.excalidraw]]
+\![[Unit 2 - Ecology and Ecosystem Dynamics 2024-01-24 11.36.33.excalidraw]]
+
 # Nitrogen Fixation (STEP 1)
 - nitrogen gas into ammonia
 	- Rhizobium ad cyanobacteria
+
 ## Industrial Fertilizer production
 Humans can produce ammonia manuals
 
@@ -215,9 +246,9 @@ Humans can produce ammonia manuals
 Nitrogen Fixation and Ammonification are distinct (different sources on nitrogen)
 
 
-![[Pasted image 20240124115000.png]]
+![](../Images/Pasted%20image%2020240124115000.png)
 
-![[Pasted image 20240124115012.png]]
+![](../Images/Pasted%20image%2020240124115012.png)
 
 # Phosphorus (P) Cycle
 - **No significant amount** of phosphorus gas (big difference with other cycles)
@@ -239,7 +270,7 @@ Phosphorus in two places
 - biosphere
 ![[Unit 2 - Ecology and Ecosystem Dynamics 2024-01-24 11.56.38.excalidraw]]
 
-![[Pasted image 20240124115434.png]]
+![](../Images/Pasted%20image%2020240124115434.png)
 
 # Human Mine for Phosphorus
 Our demand for phosphorus in agricultural and domestic activities creates water pollution:

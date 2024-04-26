@@ -17,13 +17,13 @@
 - **Everyone should be included and has a voice**
 
 # 12 Principles are Developed Into 5 Steps (A-E)
-**Step A:** Determining the main stakeholders, defining the ecosystem area, and developing the relationship between them
-**Step B:** Characterizing the structure and function of the ecosystem, and
+- **Step A:** Determining the main stakeholders, defining the ecosystem area, and developing the relationship between them
+- **Step B:** Characterizing the structure and function of the ecosystem, and
 setting in place mechanisms to manage and monitor it
-**Step C:** Identifying the important economic issues that will affect the
+- **Step C:** Identifying the important economic issues that will affect the
 ecosystem and its inhabitants
-**Step D:** Determining the likely impact of the ecosystem on adjacent
-**Step E:** Deciding on long-term goals, and flexible ways of reaching them
+- **Step D:** Determining the likely impact of the ecosystem on adjacent
+- **Step E:** Deciding on long-term goals, and flexible ways of reaching them
 
 *Steps A & B most important*
 
@@ -102,7 +102,8 @@ ecosystem and its inhabitants
 - diverging interests
 - Create buffer zone around protected areas, where everyone works together
 	- zone of cooperation: functionally extending area of the park
-![[Pasted image 20240306120914.png]]
+
+![](../Images/Pasted%20image%2020240306120914.png)
 
 # RMNP Biosphere Reserve: 
 - Cattle are relocated to government/crown land and public pastures to remove the threat of TB transfer between elk and cattle Park “behaves as though boundaries were extended an additional 12,000 km2 (black border).
@@ -147,7 +148,8 @@ ecosystem and its inhabitants
 - Niche specialisation
 
 # Animal Species in Trouble - Not tested on
-![[Pasted image 20240308121048.png]]
+
+![](../Images/Pasted%20image%2020240308121048.png)
 
 # Biodiversity Conservation
 - Internationally   **IUCN**, Convention on Biological Diversity
@@ -163,6 +165,7 @@ ecosystem and its inhabitants
 	- Reported through Red List
 
 *SARA stuff is important*
+
 # Canada's Species At Risk Act (SARA)
 - To **prevent** Canadian indigenous species, subspecies, and distinct populations from becoming extirpated or extinct
 - To provide for **recovery** of endangered or threatened species
@@ -176,7 +179,7 @@ ecosystem and its inhabitants
 - **Special Concern** – A species particularly sensitive to human activities or natural events
 
 # RENEW Canada Program
-**(Recovery of Nationally Endangered Wildlife in Canada)**
+- **(Recovery of Nationally Endangered Wildlife in Canada)**
 - Component of SARA, to assist species to recover population sizes
 - Unique to SARA, other nations may not have recovery management
 
@@ -190,7 +193,6 @@ ecosystem and its inhabitants
 
 Step A: Geographic locations included, stakeholders
 Step B: Features/characteristics, abiotic & biotic environment
-
 
 # Invasive Species
 - No natural predators
@@ -237,11 +239,13 @@ Step B: Features/characteristics, abiotic & biotic environment
 - Acid precipitation (particularly for deciduous trees)
 
 # Forest Types
+
 ## Secondary growth
 - Regenerating forest after natural disturbances or forestry operations (10-50-100 years)
 - Trees more closely spaced
 - Rapid growth on forest floor, cuz of successional stage
 - Less biodiversity than Old Growth, one canopy layer, fewer niches
+
 ## Old Growth
 - Really old 100-500 years
 - Matured to end stage, not much more growth
@@ -253,9 +257,11 @@ Step B: Features/characteristics, abiotic & biotic environment
 - Tremendous number of ecological niches for biodiversity
 
 # Harvesting (Silvicultural) Systems
+
 ## Clear Cut
 - Mow everything down
 - Forests have **even-aged** structure
+
 ## Selective Cut
 - Figuring out what you want to take, size, quality
 - Safe zone for wildlife
@@ -263,11 +269,13 @@ Step B: Features/characteristics, abiotic & biotic environment
 - **Uneven-aged forest** is maintained
 	- old and young trees
 
-# 
+# Other
 - Woodland caribou need 65% of boreal forest
 - UofM researcher theorised if we could cut forest block such that it seemed like a wildfire, then the caribou would be fine, cuz caribou were used to it
 - Found where all forest fires took place for 60 years 
-![[Pasted image 20240315115336.png]]
+
+![](../Images/Pasted%20image%2020240315115336.png)
+
 - Green is corridor retention
 - Yellow is island retention
 - Red is what you can cut

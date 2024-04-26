@@ -1,6 +1,3 @@
-*Says to review this*
-[[Climate Change Fact Sheet (by Environment Canada).pdf]]
-
 # Component Parts of Earth's Climate Change
 - 4 Spheres and the sun
 - Sun is main driver
@@ -10,7 +7,9 @@
 - forest converts energy, change climate
 
 # Incoming Radiation - The Electromagnetic Spectrum
-![[Pasted image 20240209113909.png]]
+
+![](../Images/Pasted%20image%2020240209113909.png)
+
 - Role of atmosphere is to screen out shortwave radiation like ultraviolet
 - Infrared radiation is heat, not harmful, long wave, leaves earth(outgoing)
 - visible light (incoming) used for photosynthesis
@@ -25,12 +24,16 @@
 - **Mesosphere**: temperature dropping
 - **Stratosphere**: ozone layer (absorbs UV radiation, generates heat), pollution(CFC)
 - **Troposphere**: life
-![[Pasted image 20240209115532.png]]
+
+![](../Images/Pasted%20image%2020240209115532.png)
+
 Pause: boundary, no change in temperature
 
 
 # Earth’s Energy Budget
-![[Pasted image 20240209115715.png]]
+
+![](../Images/Pasted%20image%2020240209115715.png)
+
 - 70% energy is absorbed,  30% reflected
 	- atmosphere is 20% absorbed, 20% reflected
 - 6% land surface contributes to reflection
@@ -38,20 +41,26 @@ Pause: boundary, no change in temperature
 - 47% absorbed by land and ocean
 	- land is 6-10% reflected, 50% absorbed
 # Not All Surfaces Are Equal in Energy Absorption/Reflection - Albedo
-**Albedo** is a measure of the **reflectivity** of the Earth’s surfaces
+- **Albedo** is a measure of the **reflectivity** of the Earth’s surfaces
 - Light coloured surfaces have highest albedo because they reflect more energy than they absorb; dark coloured surfaces, vegetation and oceans have low albedo because they absorb more than they reflect
-![[Pasted image 20240209120145.png]]
+
+![](../Images/Pasted%20image%2020240209120145.png)
+
 - oceans: 5% reflected
 - Heat Island --> warm over city/ human activity
 - Chlorofil does not absorb green
 
 # Incoming Solar Radiation – Influenced by the curvature and axis of inclination
-![[Pasted image 20240209120947.png]]
+
+![](../Images/Pasted%20image%2020240209120947.png)
+
 - More intense sunlight (smaller illumination) at equator than poles that leads to a **temperature gradient and seasonal differences with latitude**
 	- winds
 
 # More intense sunlight (smaller illumination) at equator than poles that leads to a temperature gradient and seasonal differences with latitude
-![[Pasted image 20240209121127.png]]
+
+![](../Images/Pasted%20image%2020240209121127.png)
+
 - Atmosphere and oceans redistribute heat
 - Greenhouse gases like a blanket, don't let heat escape
 - energy leaving earth is longwave infrared radiation
@@ -67,16 +76,21 @@ Pause: boundary, no change in temperature
 	- Greenhouse Gases absorb a portion of this IR in the troposphere
 	- Some of the thermal infrared energy escapes to space through a “window” effect
 
-![[Pasted image 20240212114636.png]]
+![](../Images/Pasted%20image%2020240212114636.png)
+
 - Evaporation = cooling, heat going to atmosphere
 	- oceans will also get saltier from evaporation
 
 # Convective Currents Help to Redistribute Heat Energy
-![[Pasted image 20240212115009.png]]
+
+![](../Images/Pasted%20image%2020240212115009.png)
+
 - Warm air less dense, more energy, move more,   High --> Low pressure
 
 # 6 Giant Convection Cells Distribute Heat Toward Poles and Contribute to Long Range Transport
-![[Pasted image 20240212115240.png]]
+
+![](../Images/Pasted%20image%2020240212115240.png)
+
 - Warm air at the equator rises and cooler air at the poles descends.
 	- So, low pressure = warm and humid and rain
 - Precipitation patterns leads to arid bands at defined latitudes.
@@ -87,7 +101,9 @@ Pause: boundary, no change in temperature
 - Water changes to ice at polar regions and expels salts
 - The colder denser water sinks to the sea floor pushing water
 - In other areas of the ocean, upwelling brings nutrients back to the surface
-![[Pasted image 20240212120417.png]]
+
+![](../Images/Pasted%20image%2020240212120417.png)
+
 - gives heat to Europe (hot body to atmosphere), moves cuz heat and winds, this heat generates evaporation, which generates more salty and heavy water
 - The salty water in the arctic is now cold and create a huge waterfall
 	- Need cold and salty water, it is dense
@@ -121,7 +137,8 @@ Upwelling, when conveyor belt heads toward landmass it rises
 		- 5000x more powerful than carbon dioxide
 
 # Today We Are In A State of Positive Radiative Forcing – Net increase in energy and temperature
-![[Pasted image 20240216115941.png]]
+
+![](../Images/Pasted%20image%2020240216115941.png)
 
 # Vostok Ice Cores Help to Reveal How GHG Concentrations Varied Pre-Historically
 - Ice cores trap gases as they form and samples can be extracted for analysis
@@ -129,17 +146,19 @@ Upwelling, when conveyor belt heads toward landmass it rises
 - Ice cores also yield information about precipitation and temperature.
 
 *When CO2 is plotted with temperature, there is a strong correlation over 4 cycles.*
-![[Pasted image 20240216120220.png]]
+
+![](../Images/Pasted%20image%2020240216120220.png)
 
 # Trends in Carbon Dioxide Concentrations – Modern Measurements
-![[Pasted image 20240216120339.png]]
+
+![](../Images/Pasted%20image%2020240216120339.png)
+
 - zig zag on annual basis from seasons, less CO2 in summer cuz photosynthesis
 
-Positive Radiative Forcing – Net increase in energy and
-temperature results because of the energy imbalance
-between “what’s coming in from the Sun and what’s leaving
-from the surface and atmosphere
-![[Pasted image 20240226114946.png]]
+**Positive Radiative Forcing** – Net increase in energy and temperature results because of the energy imbalance between “what’s coming in from the Sun and what’s leaving from the surface and atmosphere
+
+![](../Images/Pasted%20image%2020240226114946.png)
+
 - cant exceed 2 degree anomaly
 
 # Effects of Human-Induced Changes in the Climate Budget
@@ -151,10 +170,13 @@ from the surface and atmosphere
 	- **Cryosphere** (frozen water) and **Hydrosphere** – patterns in snow and ice melt; severe weather etc.
 
 # Arctic Amplification Relates to Ice-Albedo and Positive Feedback
-![[Pasted image 20240226115316.png]]
+
+![](../Images/Pasted%20image%2020240226115316.png)
 
 # Arctic amplification has resulted in >4oC annual temperature and far greater than anywhere else on the planet
-![[Pasted image 20240226115404.png]]
+
+![](../Images/Pasted%20image%2020240226115404.png)
+
 - Affects albedo, decreases, exposed water absorbs more, positive feedback
 
 # Arctic Amplification is Driven By and Resulting In Changes in the: 
@@ -163,7 +185,8 @@ from the surface and atmosphere
 - **Permafrost Soils** – melting of the ice deep in soil profiles contributes to collapsing soils, production of carbon dioxide and likely methane. The latter would result in pronounced and rapid warming everywhere else on the planet
 
 # Sea Ice
-![[Pasted image 20240226120713.png]]
+
+![](../Images/Pasted%20image%2020240226120713.png)
 
 - Extent of Arctic Ocean covered by ice is about ½ by the end of the animation (and therefore greater ocean absorption and heating)
 - Thicker/old aged ice is attacked and thinned that would typically stabilize ice sheet when wave action could sheer ice into smaller pieces.
@@ -183,12 +206,14 @@ from the surface and atmosphere
 - Committed sea level rise of 3 m projected to 6 m that will result in catastrophic losses in coastal regions
 
 # Permafrost Melt
-*Carbon Emission (permafrost will no longer be a sink for carbon storage but a source!)*
+- *Carbon Emission (permafrost will no longer be a sink for carbon storage but a source!)*
 - land is slumping and rates of soil erosion are alarming
 - Potential for enormous amounts of CH4 and CO2 to be released that will lead to “run-away” climate change for the rest of the world
 
 # Positive Feedback – Release of Carbon Dioxide and Methane in the Arctic
-![[Pasted image 20240228121651.png]]
+
+![](../Images/Pasted%20image%2020240228121651.png)
+
 - Twice as much carbon is stored deep in permafrost soils as is present in the atmosphere
 - Warming soils accelerates decomposition that releases CO2 and methane
 - Expect a positive feedback response contributing increasing amounts of CO2 and CH4 to the atmosphere!
@@ -201,7 +226,8 @@ cause problems for Humanity?
 - we have more moisture in the atmosphere.....causing?
 - we have more rapid melting of snow packs and glaciers
 - more heat in the atmosphere.....leading to?
-![[Pasted image 20240228121824.png]]
+
+![](../Images/Pasted%20image%2020240228121824.png)
 
 # What Can We Do?
 - Paris Agreement
