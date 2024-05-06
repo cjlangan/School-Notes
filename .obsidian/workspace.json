@@ -11,8 +11,12 @@
             "id": "22e867eaa6dfe807",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "REC 2100/Course Information.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8dd428e544d8fa9e",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "REC 2100/Course Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "REC 2100/Course Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "REC 2100/Course Information.md"
+              }
             }
           },
           {
@@ -140,16 +147,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "22e867eaa6dfe807",
   "lastOpenFiles": [
+    "STAT 2000/Exam.md",
+    "STAT 2000/Course Information.md",
+    "REC 2100/Course Information.md",
+    "REC 2100/Exam.md",
+    "Markdown Guide.md",
+    "ENVR 1000 A01/Unit 1 - Introduction to Environmental Problems and Causes.md",
+    "To Do.md",
     "Excalidraw/Unit 8 - Ecotoxicology 2024-04-10 11.29.14.excalidraw.md",
     "ENVR 1000 A01/Unit 8 - Ecotoxicology.md",
     "ENVR 1000 A01/Unit 7 - Water Resources.md",
@@ -163,7 +177,6 @@
     "ENVR 1000 A01/Course Information.md~",
     "ENVR 1000 A01/Unit 1 Introduction to Environmental Problems and Causes.md",
     "ENVR 1000 A01/ENVR-1000.pdf",
-    "To Do.md",
     "PSYC 1200 A07/Course Information.md",
     "Winter 2024 Exams.md",
     "Obsidian Guide.md",
@@ -176,14 +189,8 @@
     "ENVR 1000 A01/Course Information.md",
     "COMP 2160/Just a Test File.md",
     "COMP 2160/Course Information.md",
-    "STAT 2000/Exam.md",
     "GitHub/Handling Online Repo.md",
-    "STAT 2000/Course Information.md",
     "Images/Unit 2 - Ecology and Ecosystem Dynamics 2024-01-24 11.36.33.excalidraw.md",
-    "Images/Unit 2 - Ecology and Ecosystem Dynamics 2024-01-22 11.36.22.excalidraw.md",
-    "STAT 2000/Quiz 2.md",
-    "STAT 2000/Quiz 1.md",
-    "STAT 2000/Midterm.md",
     "Images/Pasted image 20240418211646.png",
     "Images/rocks-and-cliffs-of-mull-head-nature-duchy-2491219088.jpg",
     "Images/matterhorn-64951287925954AJM6.jpg",

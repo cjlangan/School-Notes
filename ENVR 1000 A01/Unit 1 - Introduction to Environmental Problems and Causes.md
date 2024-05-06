@@ -1,6 +1,6 @@
 # ENVR-1000 WHOLE COURSE
 
-## What is the Environment?
+## What is the Environment
 
 In this course, Environment provides us with the **ecological goods and
 services** - We have a connection with it; **influence each other**
