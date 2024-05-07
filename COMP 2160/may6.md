@@ -1,19 +1,24 @@
-# COMP 2160 Information
-- Instructor: Franklin Bristow
-- Emal: franklin.bristow@umanitoba.ca
-- Office Hours: T/TH 2:00pm-3:00pm or by apponitment in E2-418
+# "Real-World" Computing
 
-## Grading
-- Midterm May 24 during class time
-- 3 Assignments, due:
-    - Friday May 17th at 4:00pm
-    - Friday May 31th at 4:00pm
-    - Thursday June 13th at 4:00pm
+## Unix/Linux
+- designed for headless machines
+- we will use aviary via Linux: Ubuntu
+    - aviary.cs.umanitoba.ca
 
-## Textbooks
-- **Required:** Introduction to Programming Practices by David Scuse, Department of Computer Science, University of Manitoba.
-- **Optional:** Programming Pearls, second edition by Jon Bentley, Addison Wesley, 2000. ISBN: 9780201657883
-- **Optional:** The C Programming Language, Second Edition by Brian Kernighan and Dennis Ritchie, Prentice Hall, 1988. ISBN: 0131103628
+## Connect to aviary
+- ssh langanc@aviary.cs.umanitoba.ca
+- Cs#7993941
 
+## in Vim
+```c
+#include <stdio.h>
+#include <stdlib.h>
 
-![](Images/grading.png)
+int main(void) {
+   printf("Hello, world!\n");
+
+   return EXIT_SUCCESS;
+}
+```
+
+- no classes in C, we have functions
