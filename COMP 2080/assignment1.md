@@ -76,7 +76,7 @@ $$= \frac{3}{4} - \frac{2n^2+5n+2}{2n(n+1)(n+2)}+\frac{2(n+1)}{2n(n+1)(n+2)}$$
 $$= \frac{3}{4} + \frac{-2n^2-5n-2 + 2n + 2}{2n(n+1)(n+2)}$$
 $$= \frac{3}{4} + \frac{-2n^2-3n}{2n(n+1)(n+2)}$$
 $$= \frac{3}{4} - \frac{2n+3}{2(n+1)(n+2)}$$
-$$= \frac{3}{4} - \frac{2(n+1)+1}{2(n+1)((n+1)+2)}$$
+$$= \frac{3}{4} - \frac{2(n+1)+1}{2(n+1)((n+1)+1)}$$
 as needed.
 
 (5) Thus, since P(2) is true, and P(n) $\implies$ P(n+1), by the principle of mathematical induction, we conclude that $\forall n \geq 2,\space n \in \mathbb{N}$, P(n).
