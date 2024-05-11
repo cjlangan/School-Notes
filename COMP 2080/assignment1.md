@@ -67,8 +67,8 @@ Thus, P(2) is true.
 $$\sum_{k=2}^{n+1} \frac{1}{k^2-1} = \frac{3}{4} - \frac{2(n+1)+1}{2(n+1)((n+1)+1)}$$
 
 (4) We have,
-$$\sum_{k=2}^{n+1} \frac{1}{k^2-1} = (\sum_{k=2}^n \frac{1}{k^2-1})\space+\frac{1}{(n+2)^2-1}$$
-$$= \frac{3}{4} - \frac{2n+1}{2n(n+1)}+\frac{1}{(n+2)^2-1}\quad , by\quad I.H$$
+$$\sum_{k=2}^{n+1} \frac{1}{k^2-1} = (\sum_{k=2}^n \frac{1}{k^2-1})\space+\frac{1}{(n+1)^2-1}$$
+$$= \frac{3}{4} - \frac{2n+1}{2n(n+1)}+\frac{1}{(n+1)^2-1}\quad , by\quad I.H$$
 $$= \frac{3}{4} - \frac{2n+1}{2n^2+2n}+\frac{1}{n^2+2n}$$
 $$= \frac{3}{4} - \frac{2n+1}{2n(n+1)}+\frac{1}{n(n+2)}$$
 $$= \frac{3}{4} - \frac{(2n+1)(n+2)}{2n(n+1)(n+2)}+\frac{2(n+1)}{2n(n+1)(n+2)}$$
