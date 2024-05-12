@@ -92,7 +92,7 @@ int main(void)
         }
     }while(input != EOF);
 
-    printf("All test cases complete.");
+    printf("All test cases complete.\n");
 
     return EXIT_SUCCESS;
 }
