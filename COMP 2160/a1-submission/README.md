@@ -18,7 +18,7 @@ clang -Wall perfectlybalanced.c -o perfectlybalanced
 
 ```bash
 clang -Wall perfectlybalanced-input.c -o perfectlybalanced-input
-./perfectlybalanced
+./perfectlybalanced-input
 ```
 
 - and then entering test cases in the following format:
