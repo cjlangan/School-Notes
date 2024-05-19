@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REC 2100/Course Information.md",
+                "file": "COMP 2160/may14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REC 2100/Course Information.md",
+                "file": "COMP 2160/may14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REC 2100/Course Information.md",
+                "file": "COMP 2160/may14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REC 2100/Course Information.md"
+                "file": "COMP 2160/may14.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "22e867eaa6dfe807",
   "lastOpenFiles": [
+    "REC 2100/Course Information.md",
     "STAT 2000/Exam.md",
     "STAT 2000/Course Information.md",
-    "REC 2100/Course Information.md",
     "REC 2100/Exam.md",
     "Markdown Guide.md",
     "ENVR 1000 A01/Unit 1 - Introduction to Environmental Problems and Causes.md",

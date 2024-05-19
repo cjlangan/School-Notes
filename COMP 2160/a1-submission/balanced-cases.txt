@@ -1,6 +1,0 @@
-(()())) f
-(()) t
-Hello\0There() t
-falsehere tt
-  dfsdfsdf f
-((())))) f
