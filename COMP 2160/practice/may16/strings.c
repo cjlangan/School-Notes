@@ -53,7 +53,7 @@ int main(int argc, char **argv)
 
     printf("String characters: %s, String length: %d\n", string.characters, string.length);
 
-    printf("The character at 2 is %c\n", char_at(string.characters, 2));
+    printf("The character at 2 is %c\n", char_at(string, 2));
 
 	  return EXIT_SUCCESS;
 }
