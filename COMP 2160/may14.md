@@ -34,6 +34,7 @@ fgets is a blocking operation, take block by block of string
 
 ## Memory Layout
 F, r, a, n, k, l, i, n, \n, \0    .. .. 50
+
 0, 1, 2, 3, 4, 5, 6, 7 ....
 - this isn't perfect
 
@@ -63,7 +64,7 @@ ffff | Stack | | 0xffff
 
 ![](Images/stack.png)
 
-## Retunring an Array
+## Returning an Array
 - an array in C is just an address
 - location is where memory starts
 - We need a new type: **pointer**
