@@ -5,3 +5,21 @@
 - programming practices, c stuff
 - Written things, like understand concpets
 - no sample exams cuz prob drastically different
+- 75 minutes, same time slot
+- up to and including DBC
+- written/drawing long answer Q
+- programming question
+	- should be familiar, straighforward, just do good practices
+	- write in C, compilable
+	- no block comment for a funciton
+	- but need comments elsewhere, why things are happening.
+- MC, and also short answer
+- best practices, defensive programming, test input, DBC, programming standards
+- written answers should be full sentences, unless specified otherwise.
+- seating is assigned, in this room, each test has a name, 
+	- get email with paper number, 
+- bring photo ID
+- alternative location?
+- look at learning outcomes, should be able to **answer all, and do all.**
+	- run-time stack, everything
+	- DBC, everything, write, implement
