@@ -21,6 +21,8 @@
 - C has no boolean type
     - you can use any variable in places of a boolean expression
     - 0 -> false,   !0 -> true
+
+
 ```c
 // iterates until i is zero, prob not perfect practice.
 int i = 3;
@@ -53,6 +55,8 @@ while(i) {
 
 
 ### A Must.
+
+
 ```c
 int main(void)
 {
@@ -61,6 +65,7 @@ int main(void)
     int arr[ARR_SIZE] = {0};   // initialise it to something known, assigned to all elements
 }
 ```
+
 - as long as done before used
 - also must set array to zero using shorthand.
 

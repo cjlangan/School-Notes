@@ -84,7 +84,7 @@ void destroy_string(string *s)
     free(s);
 }
 
-char char_at(struct STRING string, int index)
+char char_at(string *myString, int index)
 {
     char char_at_index = '\0';
     
@@ -92,25 +92,25 @@ char char_at(struct STRING string, int index)
     // are turned on at compile time
 #ifndef NDEBUG
     char copy_of_string[MAX_STRING_LENGTH] = {0};
-    int original_length = string.length;
-    strncpy(copy_of_string, string.characters, original_length);
+    int original_length = myString->length;
+    strncpy(copy_of_string, myString->characters, original_length);
 #endif
 
-    if(index >= 0 && index < string.length)
+    if(index >= 0 && index < myString->length)
     {
-        char_at_index = string.characters[index];
+        char_at_index = myString->characters[index];
     }
 
     // assume: the character we are returning is in the string or we are
     // returning the null byte if the initial input assumptions were violated
-    assert((index >= 0 && index < string.length 
-            && strchr(string.characters, char_at_index) != NULL) ||
-            (index < 0 || index > string.length));
+    assert((index >= 0 && index < myString->length 
+            && strchr(myString->characters, char_at_index) != NULL) ||
+            (index < 0 || index > myString->length));
 
     // assumption: the string itself has not been modified by this code.
 #ifndef NDEBUG //only need for non assert, dont need here
-    assert(original_length == string.length);
-    assert(strncmp(copy_of_string, string.characters, original_length) == 0);
+    assert(original_length == myString->length);
+    assert(strncmp(copy_of_string, myString->characters, original_length) == 0);
 #endif
 
     return  char_at_index;

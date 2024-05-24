@@ -1,6 +1,6 @@
 ## Questions for Assignment 1
 - Which magic character do i need to #define, which do I not?
-    - e.g: (, ), t, f, space, \0, \n
+    - e.g: `(, ), t, f, space, \0, \n`
     - colours, t, f, for NULL char use null, space, 
 - Should the colours be defined right before they are used, or is this a case where I can leave them defined at the top?
 - Is it good practice to have my function return the length and then also set the input array at the same time?
@@ -8,9 +8,9 @@
 - Maybe think of simple implementation using getchar()
 
 ## fgets()
-name:   F, r, a, n, k, l, i, n, \n, \0    .. .. 50
-    - newline from me pressing enter
-    - NULL character is inserted by fgets()
+name:   `F, r, a, n, k, l, i, n, \n, \0    .. .. 50`
+- newline from me pressing enter
+- NULL character is inserted by fgets()
 
 fgets reads untill newline, so may have unwanted newline char
 - solution, replace it with a null byte
@@ -33,7 +33,7 @@ fgets is a blocking operation, take block by block of string
 - solution, just know how many character you will be reading in.
 
 ## Memory Layout
-F, r, a, n, k, l, i, n, \n, \0    .. .. 50
+`F, r, a, n, k, l, i, n, \n, \0    .. .. 50`
 
 0, 1, 2, 3, 4, 5, 6, 7 ....
 - this isn't perfect

@@ -11,5 +11,9 @@ int main(int argc, char **argv)
 
     myString = make_string("Franklin", 8);
 
+    printf("The 4th character is: %c\n", char_at(myString, 4));
+
+    destroy_string(myString);
+
     return EXIT_SUCCESS;
 }

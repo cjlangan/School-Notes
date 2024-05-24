@@ -23,6 +23,8 @@
 - ctrl+c says terminate the process
 
 ## Redirection Operators
+
+
 ```bash
 java program < in.txt  #uses in.txt as input
 java program < in.txt | less  #uses in.txt as input and opens output in less

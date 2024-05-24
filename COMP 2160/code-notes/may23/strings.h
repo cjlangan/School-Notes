@@ -12,7 +12,7 @@ typedef struct STRING string;
 // typedef alse means I can use string as a bareword to declare a variable:
 //        string myString;
 
-string *make_string(char characters[], int num_chars);
+string *make_string(char *characters, int num_chars);
 
 /**
  * Destroy an instance of a string
@@ -26,6 +26,6 @@ void destroy_string(string *s);
 /**
  * Return the character at a specified locations
  */
-char char_at(string myString, int index);
+char char_at(string *myString, int index);
 
 #endif
