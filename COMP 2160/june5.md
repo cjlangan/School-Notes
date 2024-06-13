@@ -41,7 +41,7 @@
         - Modular design can reduce it
     - Measured as high/tight or low/loose
 
-### Meti
+### Menti
 Lego - High cohesion, loosely coupled 
 Lego, stranger pieces - Mid cohesion, loosely coupled
 Web Cam - High cohesion, loose coupling

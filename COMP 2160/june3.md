@@ -79,19 +79,3 @@
 - for small, caching, 
 - in between, guess which to use.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
