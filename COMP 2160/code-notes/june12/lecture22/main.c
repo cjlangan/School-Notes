@@ -12,11 +12,19 @@ int main(void)
 
 	volatile unsigned short *vram = (unsigned short *)0x06000000;
 
-  vram[SCREEN_HEIGHT / 2 * SCREEN_WIDTH + 0] = 0x001f; //red
-  vram[SCREEN_HEIGHT / 2 * SCREEN_WIDTH + 5] = 0x03e0; //green
-  vram[SCREEN_HEIGHT / 2 * SCREEN_WIDTH + 5] = 0x7c00; //blue
+#define WHITE 0x7fff
+#define RED 0x001f
+#define GREEN 0x03e0
+#define BLUE 0x7c00
 
-  while(1);
+  vram[SCREEN_HEIGHT / 2 * SCREEN_WIDTH + 0] = RED; //red
+  vram[SCREEN_HEIGHT / 2 * SCREEN_WIDTH + 5] = GREEN; //green
+  vram[SCREEN_HEIGHT / 2 * SCREEN_WIDTH + 10] = BLUE; //blue
 
-    return 0;
+  while(1)
+  {
+        // sdfsdfsdfsdfsdf.
+  }
+
+  return 0;
 }
