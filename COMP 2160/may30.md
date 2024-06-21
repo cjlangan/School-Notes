@@ -18,7 +18,7 @@
 	- Goal: better understand the state of the application
 
 #### Application State
-- the value of all variables whil code is running, usually measured at a specific line of code.
+- the value of all variables while code is running, usually measured at a specific line of code.
 
 what if no assertion failures? Still get Segmentation Fault.
 

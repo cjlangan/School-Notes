@@ -1,6 +1,6 @@
 ## Final Exam
 - 2 hours
-- need 92% for A+
+- need 92% for A+, assuming 100% all assignements
 - Comprehensive (all stated outcomes to be assessed)
 - Second half more tested on though
 - Assigned Seating

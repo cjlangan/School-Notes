@@ -79,7 +79,7 @@ Your .c files will implement the prototypes
 ```bash
 clang -Wall strings.c -c -o strings.o
 clang -Wall main.c string.o -o main.c
-``````
+```
 
 strings.o is object file, has function definitions
 - use -> operator

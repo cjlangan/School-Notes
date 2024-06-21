@@ -52,7 +52,7 @@ char (*pointerFun1)(char c); // to this fucntion pointer
 ```
 
 ```c
-char func2(char *c); //from this function
+char *func2(char *c); //from this function
 
 char *(*pointerFun2)(char *c); // to this fucntion pointer
 ```

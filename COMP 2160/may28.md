@@ -78,8 +78,7 @@ Why not NULL?
 - check the output
 - go back to 2 until done
 - did it all work?
-
-    Extremely Tedious
+- Extremely Tedious
 
 ### Automated Testing
 - We can write code to do tedious things
@@ -92,17 +91,4 @@ Why not NULL?
 - The data for the test belongs in the test function
     - create, populate and destroy stack for each test
 - the main function should ONLY call other functions.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
