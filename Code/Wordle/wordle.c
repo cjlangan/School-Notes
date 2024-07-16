@@ -14,6 +14,8 @@
 #define YELLOW "\033[0;33m"
 #define NORMAL "\033[0m"
 
+void printColouredArray(char *arr, int length);
+
 bool arrContainsWord(char arr[NUM_GUESSES][WORD_LENGTH + 1], char *word);
 
 int numChars(char *word, char c, int length);
@@ -31,6 +33,7 @@ int main(int argc, char **argv)
         srand(time(NULL));
         int word_line = 1 + rand() % (NUM_ANSWERS - 1);
         char word[WORD_LENGTH + 1] = {0};
+        char final_result[WORD_LENGTH * MAX_ATTEMPTS] = {0};
 
         int len = 0;
         for(int i = 0; i < word_line - 1; i++)
@@ -120,37 +123,36 @@ int main(int argc, char **argv)
                                 }
                             }
                         }
-                        attempts++;
 
-                        // Print Results of Colour Array
+                        // Add attempt result to final result
                         for(int i = 0; i < WORD_LENGTH; i++)
                         {
-                            if(colourArr[i] == 'N')
-                            {
-                                printf("■");
-                            }
-                            else if(colourArr[i] == 'Y')
-                            {
-                                printf("%s■%s", YELLOW, NORMAL);
-                            }
-                            else
-                            {
-                                printf("%s■%s", GREEN, NORMAL);
-                            }
+                            final_result[attempts * WORD_LENGTH + i] = colourArr[i];
                         }
-                        // Print Attemp Number
+
+                        // Print Results of Colour Array and attempts thus far
+                        printColouredArray(colourArr, WORD_LENGTH);
+                        attempts++;
                         printf("\t%d/%d\n", attempts, MAX_ATTEMPTS);
 
                         // Check for win or fail
-                        if(charsCorrect == WORD_LENGTH)
+                        if(charsCorrect == WORD_LENGTH || attempts == MAX_ATTEMPTS)
                         {
                             gameOn = false;
-                            printf("YOU WON!\n");
-                        }
-                        else if(attempts == MAX_ATTEMPTS)
-                        {
-                            gameOn = false;
-                            printf("You Failed. The word was %s\n", word);
+                            int result_length = attempts * WORD_LENGTH;
+                            final_result[result_length] = '\0';
+                            
+                            if(charsCorrect == WORD_LENGTH)
+                            {
+                                printf("YOU WON!\n");
+                            }
+                            else
+                            {
+                                printf("You Failed. The word was %s\n", word);
+                            }
+
+                            printf("Final Results:\n");
+                            printColouredArray(final_result, result_length);
                         }
                     }
                     else
@@ -178,6 +180,33 @@ int main(int argc, char **argv)
     }
 
     return EXIT_SUCCESS;
+}
+
+void printColouredArray(char *arr, int length)
+{
+    for(int i = 0; i < length; i++)
+    {
+        // Check if need to print new attempt
+        if(i % WORD_LENGTH == 0 && i != 0)
+        {
+            printf("\n");
+        }
+
+        // Print coloured square for each attempt's characters
+        if(arr[i] == 'N')
+        {
+            printf("■");
+        }
+        else if(arr[i] == 'Y')
+        {
+            printf("%s■%s", YELLOW, NORMAL);
+        }
+        else
+        {
+            printf("%s■%s", GREEN, NORMAL);
+        }
+    }
+    printf("\n");
 }
 
 // Binary Search
