@@ -16,7 +16,7 @@
 
 bool arrContainsWord(char arr[NUM_GUESSES][WORD_LENGTH + 1], char *word);
 
-bool wordHasCharacter(char *word, char c, int length);
+int numChars(char *word, char c, int length);
 
 int getInputLength(char line[]);
 
@@ -39,7 +39,7 @@ int main(int argc, char **argv)
         }
         word[WORD_LENGTH] = '\0';
 
-        // printf("%s\n", word) // Word to guess
+        // printf("%s\n", word); // Word to guess
 
         // Ensure that we read in 5 characters
         if(len - 1 == WORD_LENGTH)
@@ -74,28 +74,74 @@ int main(int argc, char **argv)
                     // Ensure the user's guess is valid
                     if(arrContainsWord(guess_arr, guess))
                     {
-                        charsCorrect = 0;
+                        char colourArr[WORD_LENGTH] = {0};
 
+                        // Initialise all entries to NORMAL
                         for(int i = 0; i < WORD_LENGTH; i++)
                         {
+                            colourArr[i] = 'N';
+                        }
+
+                        charsCorrect = 0;
+
+                        // Determine correctness of each character
+                        for(int i = 0; i < WORD_LENGTH; i++)
+                        {
+                            int numCharAnswer = numChars(word, guess[i], WORD_LENGTH);
+                            int currCharGuess = numChars(guess, guess[i], i + 1);
+                            
                             if(guess[i] == word[i])
                             {
-                                printf("%s■%s", GREEN, NORMAL);
+                                colourArr[i] = 'G';
                                 charsCorrect++;
+
+                                // If too many colour chars and have green
+                                // then remove a yellow
+                                if(currCharGuess > numCharAnswer)
+                                {
+                                    bool removed_yellow = false;
+
+                                    for(int j = i - 1; j >= 0 && !removed_yellow; j--)
+                                    {
+                                        if(guess[j] == guess[i] && colourArr[j] == 'Y')
+                                        {
+                                            colourArr[j] = 'N';
+                                            removed_yellow = true;
+                                        }
+                                    }
+                                }
                             }
-                            else if(wordHasCharacter(word, guess[i], WORD_LENGTH))
+                            else if(numChars(word, guess[i], WORD_LENGTH))
+                            {
+                                // only colour yellow if we need more yellow.
+                                if(currCharGuess <= numCharAnswer)
+                                {
+                                    colourArr[i] = 'Y';
+                                }
+                            }
+                        }
+                        attempts++;
+
+                        // Print Results of Colour Array
+                        for(int i = 0; i < WORD_LENGTH; i++)
+                        {
+                            if(colourArr[i] == 'N')
+                            {
+                                printf("■");
+                            }
+                            else if(colourArr[i] == 'Y')
                             {
                                 printf("%s■%s", YELLOW, NORMAL);
                             }
                             else
                             {
-                                printf("■");
+                                printf("%s■%s", GREEN, NORMAL);
                             }
                         }
-                        attempts++;
+                        // Print Attemp Number
                         printf("\t%d/%d\n", attempts, MAX_ATTEMPTS);
 
-
+                        // Check for win or fail
                         if(charsCorrect == WORD_LENGTH)
                         {
                             gameOn = false;
@@ -122,6 +168,9 @@ int main(int argc, char **argv)
         {
             printf("Word read did not have %d characters\n", WORD_LENGTH);
         }
+
+        fclose(answers);
+        fclose(guesses);
     }
     else
     {
@@ -161,21 +210,19 @@ bool arrContainsWord(char arr[NUM_GUESSES][WORD_LENGTH + 1], char *word)
     return hasWord;
 }
 
-bool wordHasCharacter(char *word, char c, int length)
+int numChars(char *word, char c, int length)
 {
-    bool hasChar = false;
-    int idx = 0;
+    int numChars = 0;
 
-    while(!hasChar && idx < length)
+    for(int i = 0; i < length; i++)
     {
-        if(word[idx] == c)
+        if(word[i] == c)
         {
-            hasChar = true;
+            numChars++;
         }
-        idx++;
     }
 
-    return hasChar;
+    return numChars;
 }
 
 int getInputLength(char line[])
